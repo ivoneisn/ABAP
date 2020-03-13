@@ -1,10 +1,10 @@
 *----------------------------------------------------------------------*
-*                             z_calc                                   *
+*                             z_teste_ivonei                           *
 *----------------------------------------------------------------------*
 * Author.....: Ivonei Nunes                                            *
 * Date.......: 13.03.2020                                              *
 *----------------------------------------------------------------------*
-REPORT z_calc.
+REPORT z_teste_ivonei.
 
 DATA:
   v1 TYPE i,
@@ -28,19 +28,13 @@ START-OF-SELECTION.
   IF c1 EQ sy-abcde+23(1).
     ADD v1 TO v2.
     WRITE: v2.
-  ENDIF.
-
-  IF c2 EQ sy-abcde+23(1).
+  ELSEIF c2 EQ sy-abcde+23(1).
     SUBTRACT v2 FROM v1.
     WRITE: v1.
-  ENDIF.
-
-  IF c3 EQ sy-abcde+23(1).
+  ELSEIF c3 EQ sy-abcde+23(1).
     MULTIPLY v1 BY v2.
     WRITE: v1.
-  ENDIF.
-
-  IF c4 EQ sy-abcde+23(1).
+  ELSEIF c4 EQ sy-abcde+23(1).
     DIVIDE v1 BY v2.
     WRITE: v1.
   ENDIF.
