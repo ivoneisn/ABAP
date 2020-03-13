@@ -16,3 +16,44 @@ Repositório destinado ao treinamento de ABAP
 
 ## Livros:
 [ABAP - O guia de sobrevivência do profissional moderno. Autor: Mauricio Roberto Cruz. Editora: Casa do Código](https://cdn.shopify.com/s/files/1/0155/7645/products/abap-socialmedia_large.png?v=1443800228)
+
+
+## Convenção de nomes de variáveis
+
+- wa_	                           
+  - WorkArea pensar em 1 linha
+
+- ti_
+  - Tabela interna {de memoria}
+
+- s_
+  - valores 'de até' no where é IN por ser range, usando SELECT-OPTIONS
+
+- p_
+  - valores de apenas 1 opcao, parametro, no where é =, usando PARAMETERS
+
+- ty_
+  - Types
+  
+## Tabela Transparente { exemplos standard }
+
+- MARA
+  - tabela de materiais (mm so pp)
+- KNA1
+  - tabela de clientes (sd)
+- LFA1
+  - tabela de fornecedores (mm)
+- EKKO
+  - documento de compras nivel de cabeçalho ( MM )
+- EKPO
+  - documento de compras nivel de itens ( MM )
+- VBAK
+  - documento de vendas nível de cabeçalho (SO)
+- VBAP
+  - documento de vendas nível de itens (so)
+  
+  ## Tabelas Internas
+  
+ - STANDARD
+ - SORTED
+ - HASHED
