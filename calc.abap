@@ -27,7 +27,7 @@ START-OF-SELECTION.
 
   IF p_r1 EQ sy-abcde+23(1).
     ADD ty_valor1 TO ty_valor2.
-    WRITE: v2.
+    WRITE: ty_valor2.
   ELSEIF p_r2 EQ sy-abcde+23(1).
     SUBTRACT ty_valor2 FROM ty_valor1.
     WRITE: ty_valor1.
