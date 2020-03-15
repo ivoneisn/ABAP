@@ -21,16 +21,16 @@ Repositório destinado ao treinamento de ABAP
 ## Convenção de nomes de variáveis
 
 - wa_	                           
-  - WorkArea pensar em 1 linha
+  - WorkArea
 
 - ti_
   - Tabela interna {de memoria}
 
 - s_
-  - valores 'de até' no where é IN por ser range, usando SELECT-OPTIONS
+  - SELECT-OPTIONS
 
 - p_
-  - valores de apenas 1 opcao, parametro, no where é =, usando PARAMETERS
+  - PARAMETERS
 
 - ty_
   - Types
