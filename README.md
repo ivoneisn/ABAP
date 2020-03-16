@@ -12,7 +12,7 @@ Repositório destinado ao treinamento de ABAP
 
 [Vídeo sobre SELECT no Open SQL](https://www.youtube.com/watch?v=xD982xfBLW8)
 
-[Raphael Bertani](https://www.youtube.com/user/rnsb0702)
+[Curso de ABAP com Raphael Bertani](https://www.youtube.com/watch?v=HpGHRpNklvc)
 
 [Instalação do Mini SAP com Thiago Abrantes](https://www.youtube.com/watch?v=8HdLK-hFnFM)
 
