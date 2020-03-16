@@ -10,6 +10,10 @@ Repositório destinado ao treinamento de ABAP
 
 [Netstudy](https://www.youtube.com/channel/UCCzAUMywNdNbZ9zSD9YSbmQ)
 
+[Leo ABAP](http://www.leoabap.com.br/)
+
+[Scribd](https://pt.scribd.com/search?content_type=tops&page=1&query=abap&language=13)
+
 [Vídeo sobre SELECT no Open SQL](https://www.youtube.com/watch?v=xD982xfBLW8)
 
 [Curso de ABAP com Raphael Bertani](https://www.youtube.com/watch?v=HpGHRpNklvc)
