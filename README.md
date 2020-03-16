@@ -19,7 +19,9 @@ Repositório destinado ao treinamento de ABAP
 [Integração do SAP com PHP com Thiago Abrantes](https://www.youtube.com/watch?v=JuUJ8SqLiQs)
 
 ## Livros:
-[ABAP - O guia de sobrevivência do profissional moderno. Autor: Mauricio Roberto Cruz. Editora: Casa do Código](https://cdn.shopify.com/s/files/1/0155/7645/products/abap-socialmedia_large.png?v=1443800228)
+[ABAP - O guia de sobrevivência do profissional moderno. Autor: Mauricio Roberto Cruz](https://cdn.shopify.com/s/files/1/0155/7645/products/abap-socialmedia_large.png?v=1443800228)
+
+[ABAP passo a passo. Autor: Márcio Brener](https://images-na.ssl-images-amazon.com/images/I/51nGi84KGiL.jpg)
 
 
 ## Convenção de nomes de variáveis
